@@ -18,8 +18,7 @@ and information retrieval (IR) community.
 Current build status
 ====================
 
-[![Linux](https://img.shields.io/circleci/project/github/conda-forge/gensim-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/gensim-feedstock)
-[![OSX](https://img.shields.io/travis/conda-forge/gensim-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/gensim-feedstock)
+[![Linux,OSX](https://img.shields.io/circleci/project/github/conda-forge/gensim-feedstock/master.svg?label=Linux,OSX)](https://circleci.com/gh/conda-forge/gensim-feedstock)
 [![Windows](https://img.shields.io/appveyor/ci/conda-forge/gensim-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/gensim-feedstock/branch/master)
 
 Current release info
