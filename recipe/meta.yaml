@@ -54,8 +54,8 @@ test:
     - gensim.test
     - gensim.topic_coherence
   commands:
-    - nosetests --exe -v gensim
-    
+    - nosetests --exe -v gensim --exclude=test_parallel
+
 about:
   home: http://github.com/RaRe-Technologies/gensim
   license: LGPL-3.0
